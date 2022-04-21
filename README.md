@@ -3,6 +3,7 @@
 This analysis looks at squamous cell carcinoma tumor growth in mice. Multiple treatment regimens are compared to discover which regimen is most effective in shrinking tumors.
 
 The distribution of female versus male mice in the study:
+
 ![Screenshot (133)](https://user-images.githubusercontent.com/89754154/164565185-e71b5217-70ce-491f-a96e-1b676c04e9d3.png)
 
 A box plot of the final tumor volume of each mouse across four regimens of interest:
