@@ -1,6 +1,6 @@
 # MatPlotLib_SCC_Analysis
 
-This analysis looks at squamous cell carcinoma tumor growth in mice. Multiple treatment regimens are compared to discover which regimen is most effective in shrinking tumors.
+This analysis looks at squamous cell carcinoma tumor growth in mice. Multiple treatment regimens are compared to discover which regimen is most effective in shrinking tumors. Capomulin is found to be the drug regimen to reduce tumor growth.
 
 The distribution of female versus male mice in the study:
 
